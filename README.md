@@ -35,7 +35,4 @@ I ❤️ open-source
 
 ---
 
-### Currently Listening to
-
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/e4ej7nckfnymdmmgx6ibzdo0h)
 
