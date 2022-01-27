@@ -1,5 +1,5 @@
 ## <centre> 👋 Hey, I'm Soham! </centre>
-I am a student and I like to make cool stuff. Here you can find most of the (broken) stuff that I make.
+I am a student and I like to make cool stuff. Here you can find most of the stuff that I make.
 <br>
 I ❤️ open-source
 
