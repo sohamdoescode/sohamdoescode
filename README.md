@@ -1,7 +1,6 @@
 ## <centre> 👋 Hey, I'm Soham! </centre>
-I am a student and I like to make cool stuff. Here you can find most of the stuff that I make.
+I am a student and I like to make cool stuff. Here you can find most of the stuff that I make. I am still learning most of the languages I code in!
 <br>
-I ❤️ open-source
 
 ---
 ### ✉️ Contact Me
