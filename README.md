@@ -1,5 +1,5 @@
 ## <centre> 👋 Hey, I'm Soham! </centre>
-I am a student and I like to make cool stuff. Here you can find most of the stuff that I make. I am still learning most of the languages I code in!
+I am a student and expert chatbot creator. I code mainly in Javascript & Python. Currently fiddling with HTML and CSS, and playing around with web development.
 <br>
 
 ---
